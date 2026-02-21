@@ -1,0 +1,2 @@
+-keep class com.kgshop.data.entities.** { *; }
+-keepclassmembers class * extends androidx.room.RoomDatabase { *; }
